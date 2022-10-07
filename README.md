@@ -42,7 +42,7 @@
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
     <a href="https://github.com/HimanshuVermaG/github-readme-stats"><img alt="Himanshu Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HimanshuVermaG&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/HimanshuVermaG/github-readme-stats"><img alt="Himanshu Verma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuVermaG&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -53,7 +53,7 @@
 <a href="https://github.com/HimanshuVermaG/github-readme-activity-graph"><img alt="Himanshu Verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimanshuVermaG&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<p>
 
 ## Connect with me:
 <p align="left">
