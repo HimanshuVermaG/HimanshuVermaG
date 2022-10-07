@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Myself
 
 - 🔭 I’m currently working on **[HealthID](https://github.com/HimanshuVermaG/Health_Id.git)**
 
