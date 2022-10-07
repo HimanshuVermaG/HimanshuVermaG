@@ -42,7 +42,7 @@
 </p>
 
 ## 📊 My Github Stats
-<p align="center">
+<p align="left">
   <br/>
     <a href="https://github.com/HimanshuVermaG/github-readme-stats"><img alt="Himanshu Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HimanshuVermaG&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/HimanshuVermaG/github-readme-stats"><img alt="Himanshu Verma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuVermaG&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
